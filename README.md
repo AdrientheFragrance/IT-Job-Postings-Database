@@ -12,10 +12,10 @@ We derived our data from a Kaggle dataset, [Polish IT Job Postings](https://www.
 This database is meant to serve as a tool for job applicants to find jobs that suit their qualifications and interests, consisting of 7 tables and a sample data size of 15 job postings. Each job posting retains information organized in such a way best represented by our entity relationship diagram below.
 
 ### ERD
-<p align="center"> 
+<p align="left"> 
   <kbd>
-    <a href="" target="_blank"><img src="
-<img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">">
+    <a href="" target="_blank">
+<img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">>
   </a>
   </kbd>
 </p>
