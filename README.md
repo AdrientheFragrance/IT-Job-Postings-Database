@@ -11,9 +11,7 @@ We derived our data from a Kaggle dataset, [Polish IT Job Postings](https://www.
 # Database Description 
 This database is meant to serve as a tool for job applicants to find jobs that suit their qualifications and interests, consisting of 7 tables and a sample data size of 15 job postings. Each job posting retains information organized in such a way best represented by our entity relationship diagram below.
 
-<p align="left">
-  <img src="C:\Users\adrie\OneDrive\Desktop\SQL Projects\it_job_postings\IT_Job_Postings_ERD_image.png" width="350" title="hover text">
-</p>
+<img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">
 
 
 # Sample Data
