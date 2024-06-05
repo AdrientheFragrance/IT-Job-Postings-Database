@@ -11,7 +11,14 @@ We derived our data from a Kaggle dataset, [Polish IT Job Postings](https://www.
 # 🐬 Database Description 
 This database is meant to serve as a tool for job applicants to find jobs that suit their qualifications and interests, consisting of 7 tables and a sample data size of 15 job postings. Each job posting retains information organized in such a way best represented by our entity relationship diagram below.
 
-<img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">
+### ERD
+<p align="center"> 
+  <kbd>
+    <a href="" target="_blank"><img src="
+<img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">">
+  </a>
+  </kbd>
+</p>
 
 
 # 🐬 Sample Data
@@ -44,3 +51,20 @@ Some potential future additions to this project include expanding the database t
 Another future implementation could be adding the currency exchange rate alongside the job salary and currency to help job applicants assess their options based on their desired pay and the current job market. Our team also discussed the possibility of utilizing this database as the framework for a job finding website, such as the website the original creator of the database used. The website would have a very simplified version of job information, but users would be able to see a variety of data relationships in order to satisfy their information seeking needs. In other words, the views we create would provide specific job posting statistics that the user can search through.
 
 
+### Website Preview
+<p align="center"> 
+  <kbd>
+    <a href="" target="_blank"><img src="images/preview.jpg">
+  </a>
+  </kbd>
+</p>
+
+
+## Credits 📄
+
+	Collaborators:
+		Adrien Rozario, Maya Patel, Samiha Naser, Illia Polishchuk, Andy Yang
+
+	Data:
+		Just join it. Job Offers IT - Just Join IT. (n.d.-b), https://justjoin.it/ 
+    RSKriegs. “Polish It Job Board Data from 2022.” Kaggle, 20 Nov. 2022, www.kaggle.com/datasets/kriegsmaschine/polish-it-job-board-data-from-2022/data
