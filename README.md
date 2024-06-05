@@ -1,24 +1,24 @@
-# IT Job Postings Database
+# 💻 IT Job Postings Database
 A database designed by a team of Information Science students taking INST 327 at the University of Maryland
 
 
-# Introduction
+# 🐬 Introduction
 My team aimed to research which qualities are the most preferable for landing an IT job.
 
 We derived our data from a Kaggle dataset, [Polish IT Job Postings](https://www.kaggle.com/datasets/kriegsmaschine/polish-it-job-board-data-from-2022/data), created by a Polish startup company that lists IT job postings for different European countries from February of 2022 to November of 2022. With 35 columns, some of the specific ones of interest are job title, workplace, salary, and experience. To focus our scope of interest, some repetitive and discriminatory columns are excluded. In representing our chosen columns, we developed a database in MySQLWorkbench using Structured Query Language (SQL) that showcases the specific relationships these entities and attributes have.
 
 
-# Database Description 
+# 🐬 Database Description 
 This database is meant to serve as a tool for job applicants to find jobs that suit their qualifications and interests, consisting of 7 tables and a sample data size of 15 job postings. Each job posting retains information organized in such a way best represented by our entity relationship diagram below.
 
 <img src= "https://raw.githubusercontent.com/AdrientheFragrance/IT-Job-Postings-Database/main/IT_Job_Postings_ERD_image.png">
 
 
-# Sample Data
+# 🐬 Sample Data
 The original dataset had over 37,000 rows of data, mostly with job listings in Poland and England. Between 1 and 2 percent of the rows corresponded to postings based in the United States, so in narrowing down our rows to under 500 rows, we chose only listings based in the United States which narrowed the dataset down to roughly 600 rows. We got rid of job postings with currencies other than the US dollar and those with extensive null values to populate our database with the strongest rows. Of these rows, 15 were chosen that best demonstrated a variety of desired job information. Our final sample data consists of these 15 rows and all 25 columns shown in the entity relationship diagram.
 
 
-# Views and Queries
+# 🐬 Views and Queries
 
 Query Name | Join x4 | Filter x3 | Aggregate x2 | Linking x1 | Subquery x1
 --- | --- | --- | --- |--- |---
@@ -37,7 +37,7 @@ paying jobs.
 * Query 5: Creates a view of the most valued skills and experience level for each job position, ordered from highest to lowest value.
 
 
-# Future Work
+# 🐬 Future Work
 
 Some potential future additions to this project include expanding the database to include all countries and currencies. In doing so, our scope will broaden to include IT job postings abroad for any applicants looking to apply to such jobs. That means creating more views with information relevant to job applicants abroad, and more table relationships that can be drawn out of different country data. For example, viewing the top skills and experience valued in each country (if not all, then any select few).
 
