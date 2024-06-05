@@ -51,14 +51,6 @@ Some potential future additions to this project include expanding the database t
 Another future implementation could be adding the currency exchange rate alongside the job salary and currency to help job applicants assess their options based on their desired pay and the current job market. Our team also discussed the possibility of utilizing this database as the framework for a job finding website, such as the website the original creator of the database used. The website would have a very simplified version of job information, but users would be able to see a variety of data relationships in order to satisfy their information seeking needs. In other words, the views we create would provide specific job posting statistics that the user can search through.
 
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="" target="_blank"><img src="images/preview.jpg">
-  </a>
-  </kbd>
-</p>
-
 
 ## Credits 📄
 
