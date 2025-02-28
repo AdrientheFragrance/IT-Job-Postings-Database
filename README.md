@@ -43,6 +43,8 @@ paying jobs.
 * Query 4: Creates a view that depicts the average salaries for B2B jobs, ranking from highest to lowest average salary.
 * Query 5: Creates a view of the most valued skills and experience level for each job position, ordered from highest to lowest value.
 
+You can find what these look like in the "centralized_view_outputs.pdf" file!
+
 
 # 🐬 Future Work
 
